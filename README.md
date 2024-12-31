@@ -52,7 +52,7 @@ RegisterNumber: 24901007
 ![image](https://github.com/user-attachments/assets/e4f25076-618a-40ec-8803-ebf6dfd96507)
 
 
-**TIMING DIAGRAMS FOR FLIP-FLOP**
+**TIMING DIAGRAM FOR FLIP-FLOP**
 
 ![image](https://github.com/user-attachments/assets/e81f13fb-c7c7-412d-8142-e789e6ab329f)
 
